@@ -1,0 +1,38 @@
+﻿{
+    "status": 200,
+    "result": {
+        "postcode": "HP4 3DQ",
+        "quality": 1,
+        "eastings": 498730,
+        "northings": 207804,
+        "country": "England",
+        "nhs_ha": "East of England",
+        "longitude": -0.570886,
+        "latitude": 51.760228,
+        "european_electoral_region": "Eastern",
+        "primary_care_trust": "Hertfordshire",
+        "region": "East of England",
+        "lsoa": "Dacorum 014D",
+        "msoa": "Dacorum 014",
+        "incode": "3DQ",
+        "outcode": "HP4",
+        "parliamentary_constituency": "South West Hertfordshire",
+        "admin_district": "Dacorum",
+        "parish": "Berkhamsted",
+        "admin_county": "Hertfordshire",
+        "admin_ward": "Berkhamsted East",
+        "ced": "Berkhamsted",
+        "ccg": "NHS Herts Valleys",
+        "nuts": "Hertfordshire",
+        "codes": {
+            "admin_district": "E07000096",
+            "admin_county": "E10000015",
+            "admin_ward": "E05004698",
+            "parish": "E04004697",
+            "parliamentary_constituency": "E14000951",
+            "ccg": "E38000079",
+            "ced": "E58000604",
+            "nuts": "UKH23"
+        }
+    }
+}
